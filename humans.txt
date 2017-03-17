@@ -1,0 +1,12 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Qwer999 -- UI Designer -- @qwer999
+
+
+# TECHNOLOGY COLOPHON
+
+	Sketch,
+    HTML5, CSS3, jQuery, VelocityJS,
